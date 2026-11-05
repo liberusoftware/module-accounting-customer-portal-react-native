@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-customer-portal-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-customer-portal",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-customer-portal-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/customer-portal.md",
+  "presentationPlan": "projects/accounting/react-native/customer-portal.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
